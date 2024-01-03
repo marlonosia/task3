@@ -1,0 +1,13 @@
+package javaFundametals;
+
+public class whileLoops {
+    public static void main (String[] args){
+        
+        String[] names = {"is old number","is even number"}
+        int i = 0;
+        while(i < 10) {
+            Sytem.out.println("names[i]");
+            i++;
+        }
+    }
+}
